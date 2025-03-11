@@ -1,3 +1,4 @@
 Resources/disease_symptoms.csv filter=lfs diff=lfs merge=lfs -text
 Resources/healthCareMagic_df_with_prognosis_2.csv filter=lfs diff=lfs merge=lfs -text
 Resources/HealthCareMagic-100k.csv filter=lfs diff=lfs merge=lfs -text
+disease_prediction_model.joblib filter=lfs diff=lfs merge=lfs -text
